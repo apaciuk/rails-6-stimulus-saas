@@ -1,2 +1,14 @@
-<h1>Welcome to Stimulus SaaS!</h1>
-<p class="lead">Use this document as a way to quickly start any new project.<br> All you get is this text and a mostly barebones HTML document.</p>
+<h2>Welcome to Stimulus SaaS!</h2>
+<p class="lead">Starter SaaS preconfigured boilerplate with Bootstrap 5, Devise, Noticed<br />
+  Announcements, Madmin, Stimulus JS/Reflex and Action Cable/Cable Ready.</p>
+
+<div data-controller="hello">
+  <input data-hello-target="name" type="text">
+
+  <button data-action="click->hello#connect">
+    Greet
+  </button>
+
+  <span data-hello-target="output">
+  </span>
+</div>

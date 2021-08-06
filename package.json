@@ -12,7 +12,9 @@
     "bootstrap": "^5.1.0",
     "expose-loader": "^3.0.0",
     "local-time": "^2.1.0",
+    "cable_ready": "^5.0.0-pre1",
     "stimulus": "^2.0.0",
+    "stimulus_reflex": "3.4.1",
     "webpack": "^4.46.0",
     "webpack-cli": "^3.3.12"
   },

@@ -24,14 +24,14 @@ Rails 6.1.4
 
 * Configuration
 
- bundle install
+ bundle install/update (if change any gems)
  yarn
  rails db:migrate  (sqlite3)
  rails g madmin:install
  rails g madmin:views
  rails s
 
-(For other cmds see  related docs)
+(For other cmds see  related docs/links)
 
 * Database creation
 

@@ -14,9 +14,6 @@ require("local-time").start()
 // Start Rails UJS
 Rails.start()
 
-// Stimulus
-import "controllers"
-
 // Bootstrap
 import 'bootstrap'
 
@@ -31,3 +28,7 @@ document.addEventListener("turbo:load", () => {
     return new bootstrap.Popover(popoverTriggerEl)
   })
 })
+
+// Stimulus
+import "controllers"
+

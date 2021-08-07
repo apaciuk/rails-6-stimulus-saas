@@ -29,6 +29,7 @@ Rails 6.1.4
  rails db:migrate  (sqlite3)
  rails g madmin:install
  rails g madmin:views
+ rails stimulus_reflex:install
  rails s
 
 (For other cmds see  related docs/links)

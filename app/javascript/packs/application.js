@@ -29,6 +29,5 @@ document.addEventListener("turbo:load", () => {
   })
 })
 
-// Stimulus
-import "controllers"
+
 

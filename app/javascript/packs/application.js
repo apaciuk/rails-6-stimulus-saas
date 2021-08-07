@@ -29,5 +29,3 @@ document.addEventListener("turbo:load", () => {
   })
 })
 
-
-

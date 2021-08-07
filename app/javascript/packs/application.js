@@ -29,3 +29,5 @@ document.addEventListener("turbo:load", () => {
   })
 })
 
+
+import "controllers"

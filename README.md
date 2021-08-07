@@ -20,28 +20,21 @@ Ruby 3.0.0
 
 Rails 6.1.4
 
-* System dependencies
-
-* Configuration
+* Setup
 
  bundle install/update (if change any gems)
+ npm i
  yarn
  rails db:migrate  (sqlite3)
+ rails stimulus_reflex:install
  rails g madmin:install
  rails g madmin:views
- rails stimulus_reflex:install
+
+* Start server
  rails s
 
 (For other cmds see  related docs/links)
 
-* Database creation
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
 
 * ...

@@ -27,7 +27,7 @@ Rails 6.1.4
  yarn
  rails db:migrate  (sqlite3)
  rails stimulus_reflex:install
- rails g madmin:install
+ rails g madmin:install  (if not, have to alter nav)
  rails g madmin:views
 
 * Start server

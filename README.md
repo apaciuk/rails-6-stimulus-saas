@@ -18,7 +18,7 @@ Style kept minimal so Bootstrap 5 can be swapped out for other CSS or UI if requ
 
 Ruby 3.0.0
 
-Rails 6.1.4
+Rails 6.1.0
 
 * Setup
 
@@ -33,6 +33,10 @@ Rails 6.1.4
 
 * Start server
  rails s
+
+* Todo
+
+Add Minitest
 
 (For other cmds see  related docs/links)
 

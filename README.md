@@ -1,6 +1,6 @@
 # rails-stimulus-sass
 
-Epic Ruby On Rails Starter SaaS preconfigured boilerplate with Bootstrap 5, Devise, Noticed, Announcements, Madmin, Stimulus JS and Action Cable.
+Epic Ruby On Rails Starter SaaS preconfigured boilerplate with Bootstrap 5, Devise, Noticed, Announcements, Madmin, Stimulus JS and Action Cable, with Redis Caching
 
 https://stimulus.hotwired.dev/
 

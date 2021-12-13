@@ -2,10 +2,10 @@
 namespace :madmin do
   resources :users
   namespace :active_storage do
-    resources :attachments
+    resources :variant_records
   end
   namespace :active_storage do
-    resources :variant_records
+    resources :attachments
   end
   namespace :active_storage do
     resources :blobs

@@ -1,4 +1,4 @@
-# rails-stimulus-sass
+# rails-6-stimulus-sass
 
 Epic Ruby On Rails Starter SaaS preconfigured boilerplate with Bootstrap 5, Devise, Noticed, Announcements, Madmin, Stimulus JS and Action Cable, with Redis Caching
 
